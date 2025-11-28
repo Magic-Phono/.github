@@ -1,6 +1,6 @@
 # Magic Phono
 
-Magic Phono aims to enable open source software on run on AlphaTheta CDJs.
+Magic Phono enables open source software on run on AlphaTheta CDJs.
 
 > [!CAUTION]
 > Magic Phono is under early development and cannot guarantee correct operation.
