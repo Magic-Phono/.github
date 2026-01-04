@@ -17,9 +17,9 @@
 - An SD-card with of at least 1 GiB in size
 - A USB key formatted to FAT32
 
-## Prepare your player
+## Prepare your player with Magic Phono Loader
 
-Magic Phono works by toggling a boot flag in non-volatile memory to allow booting firmware from an SD-card.
+Magic Phono Loader works by toggling a boot flag in non-volatile memory to allow booting firmware from an SD-card.
 
 If no bootable SD-card is present the CDJ-3000 will continue booting from internal firmware as usual.
 
