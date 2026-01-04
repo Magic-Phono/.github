@@ -33,7 +33,7 @@ To prepare your player:
 - Copy it to a FAT32 USB key. Make sure there are no other update files on the USB key.
 - Insert the USB key into your CDJ-3000. Enter udpate mode by pressing IN/CUE and RELOOP/EXIT while powering on the unit.
 - Once complete, you can reboot your CDJ.
-- Congratulations! You can now boot custom firmwares from an SD-card, such as MagicPhono Linux.
+- Congratulations! You can now boot custom firmwares from an SD-card, such as <a href="https://github.com/Magic-Phono/cdj3k-magicphono-distro">MagicPhono Linux</a>.
 - If no bootable SD-card is present the CDJ-3000 will continue booting from internal firmware as usual.
 
 ## Write Magic Phono Linux to an SD-card
