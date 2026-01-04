@@ -56,7 +56,7 @@ Currently, Magic Phono Linux will boot to a non-graphical environment with SSH e
 
 ## Playing DOOM 
 
-**need to fix* default.cfg*
+**need to fix* default.cfg, subucom_input, startx*
 
 - Put the USB key with doom1.wad into the player.
 - SSH into your player.
@@ -70,6 +70,9 @@ cp default.cfg /home/root/.chocolate-doom/
 
 export DISPLAY=:0
 export SDL_AUDIODRIVER=alsa
+
+subucom_input &
+startx &
 
 cd /tmp
 chocolate-doom -iwad doom1.wad 
