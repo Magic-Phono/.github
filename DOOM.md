@@ -8,10 +8,10 @@
 
 ### Prerequisites
 
-- A compatible CDJ-3000.
+- A compatible CDJ-3000
   - Connected to your local network
   - Audio connected via Digital Out
-- An SD-card with of at least 1 GiB in size.
+- An SD-card with of at least 1 GiB in size
 - A USB key
 
 ## Prepare your player
@@ -54,7 +54,9 @@ To prepare your player:
 
 Currently, Magic Phono Linux will boot to a non-graphical environment with SSH enabled.
 
-## Playing DOOM
+## Playing DOOM 
+
+<need to fix>
 
 - Put the USB key with doom1.wad into the player.
 - SSH into your player.
