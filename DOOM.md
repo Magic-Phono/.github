@@ -12,7 +12,7 @@
   - Connected to your local network
   - Audio connected via Digital Out
 - An SD-card with of at least 1 GiB in size
-- A USB key
+- A USB key formatted to FAT32
 
 ## Prepare your player
 
@@ -40,7 +40,7 @@ To prepare your player:
 
 ## Download the DOOM levels to USB key
 
-- Download <a href="https://distro.ibiblio.org/slitaz/sources/packages/d/doom1.wad">doom1.wad</a> and put it onto a USB key.
+- Download <a href="https://distro.ibiblio.org/slitaz/sources/packages/d/doom1.wad">doom1.wad</a> and put it onto the USB key.
 
 ## Running
 
