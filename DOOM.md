@@ -1,5 +1,8 @@
 # DOOM on the CDJ-3000
 
+> [!NOTE]
+> This is meant for developers -- will streamline this for end users soon.
+
 ## Installing
 
 ### Compatibility
