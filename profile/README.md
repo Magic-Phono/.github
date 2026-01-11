@@ -12,7 +12,9 @@ Magic Phono enables open source software to run on AlphaTheta CDJs.
 Instructions: [DOOM on the CDJ](https://github.com/Magic-Phono/.github/blob/main/DOOM.md)
 
 
-## Components
+## Code
+
+We welcome contributions! Start by exploring the code:
 
 - [`cdj3k-magicphono-loader`](https://github.com/Magic-Phono/cdj3k-magicphono-loader): Enables booting custom firmware from SD-card
 - [`cdj3k-magicphono-distro`](https://github.com/Magic-Phono/cdj3k-magicphono-distro): Custom firmware built from the ground up based on Linux
