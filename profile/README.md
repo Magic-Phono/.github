@@ -10,3 +10,11 @@ Magic Phono enables open source software to run on AlphaTheta CDJs.
 ## I want to play DOOM on my CDJ-3000
 
 Instructions: [DOOM on the CDJ](https://github.com/Magic-Phono/.github/blob/main/DOOM.md)
+
+
+## Components
+
+- cdj3k-magicphono-loader: Enables booting custom firmware from SD-card
+- cdj3k-magicphono-distro: Custom firmware built from the ground up
+- cdj3k-subucom-tools: Reverse engineered controls & LED interface
+
