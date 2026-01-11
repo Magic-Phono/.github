@@ -24,7 +24,7 @@
 
 
 
-## Install Magic Phono Loader on CDJ-3000
+## Prepare: Install Magic Phono Loader on CDJ-3000
 
 Magic Phono Loader works by toggling a boot flag in non-volatile memory to allow booting firmware from an SD-card.
 
@@ -49,16 +49,16 @@ To prepare your player:
 - Congratulations! You can now boot custom firmwares from an SD-card, such as <a href="https://github.com/Magic-Phono/cdj3k-magicphono-distro">MagicPhono Linux</a>.
 - If no bootable SD-card is present the CDJ-3000 will continue booting from internal firmware as usual.
 
-## Download and Install Magic Phono to an SD-card
+## Prepare: Download and Install Magic Phono to an SD-card
 
 - Download the pre-built <a href="https://github.com/Magic-Phono/cdj3k-magicphono-distro/releases/download/v1.0.0/magicphono-cdj3k-1.0-dev.img">`magicphono-cdj3k-1.0-dev.img`</a> image.
 - Write it to a SD-card using a tool like <a href="https://www.raspberrypi.com/software/" target="_blank">Raspberry Pi Imager</a> (despite the name it can write any image file to an SD card).
 
-## Copy the DOOM levels to USB key
+## Prepare: Copy the DOOM levels to USB key
 
 - Download <a href="https://distro.ibiblio.org/slitaz/sources/packages/d/doom1.wad">doom1.wad</a> and put it in the root directory of the USB key.
 
-## Running
+## Run Magic Phono firmware with DOOM
 
 - On a CDJ-3000 with <a href="https://github.com/Magic-Phono/cdj3k-magicphono-loader">MagicPhono Loader</a> installed:
   - Put the SD-card (Magic Phono image) in the SD slot
