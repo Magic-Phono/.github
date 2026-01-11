@@ -49,14 +49,23 @@ To prepare your player:
 
 ## Running
 
-- On a CDJ-3000 with <a href="https://github.com/Magic-Phono/cdj3k-magicphono-loader">MagicPhono Loader</a> installed, put the SD-card in the SD slot and turn the CDJ-3000 on.
-- MagicPhono Linux should boot from the SD-card.
+- On a CDJ-3000 with <a href="https://github.com/Magic-Phono/cdj3k-magicphono-loader">MagicPhono Loader</a> installed:
+  - Put the SD-card in the SD slot
+  - Put the USB key in the USB slot
+  - Turn the CDJ-3000 on
+- MagicPhono Linux should boot from the SD-card and start DOOM automatically.
 
 > [!WARNING]  
 > Root access via SSH is enabled by default with no password. This will be disabled in future pre-built
 > images as MagicPhono Linux stabilizes.
 
+## Help
 
+If DOOM doesnt start automatically, SSH into your player to debug what might be happening.
 
+Some useful debugging commands:
+```
+dmesg
+journalctl -b
 ```
 
