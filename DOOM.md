@@ -28,6 +28,8 @@ The chances of this bricking your CDJ-3000 is low, however there is a non-zero c
 > [!CAUTION]
 > This tool is experimental software with the potential to brick your CDJ. **USE AT YOUR OWN RISK**.
 
+You only need to do this once per player.
+
 To prepare your player:
 - Download the pre-built <a href="https://github.com/Magic-Phono/cdj3k-magicphono-loader/releases/download/v1.0.0/CDJ3KvSDBOOT001.UPD">`CDJ3KvSDBOOT001.UPD`</a> update file.
 - Copy it to a FAT32 USB key. Make sure there are no other update files on the USB key.
@@ -43,7 +45,7 @@ To prepare your player:
 
 ## Download the DOOM levels to USB key
 
-- Download <a href="https://distro.ibiblio.org/slitaz/sources/packages/d/doom1.wad">doom1.wad</a> and put it onto the USB key.
+- Download <a href="https://distro.ibiblio.org/slitaz/sources/packages/d/doom1.wad">doom1.wad</a> and put it in the root directory of the USB key.
 
 ## Running
 
@@ -54,29 +56,7 @@ To prepare your player:
 > Root access via SSH is enabled by default with no password. This will be disabled in future pre-built
 > images as MagicPhono Linux stabilizes.
 
-Currently, Magic Phono Linux will boot to a non-graphical environment with SSH enabled.
 
-## Playing DOOM 
 
-**need to fix* default.cfg, subucom_input, startx*
-
-- Put the USB key with doom1.wad into the player.
-- SSH into your player.
-- Run:
-```
-mkdir -p /mnt/usb
-cp /mnt/usb/doom1.wad /tmp
-
-mkdir -p /home/root/.chocolate-doom/
-cp default.cfg /home/root/.chocolate-doom/
-
-export DISPLAY=:0
-export SDL_AUDIODRIVER=alsa
-
-subucom_input &
-startx &
-
-cd /tmp
-chocolate-doom -iwad doom1.wad 
 ```
 
