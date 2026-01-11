@@ -6,4 +6,7 @@ Magic Phono enables open source software to run on AlphaTheta CDJs.
 > Magic Phono is under early development and cannot guarantee correct operation.
 > We are not responsible to any damage to your player. Install at your own risk!
 
-[DOOM on the CDJ](https://github.com/Magic-Phono/.github/blob/main/DOOM.md)
+
+## I want to play DOOM on my CDJ-3000
+
+Instructions: [DOOM on the CDJ](https://github.com/Magic-Phono/.github/blob/main/DOOM.md)
