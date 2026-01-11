@@ -32,7 +32,7 @@ You only need to do this once per player.
 
 > [!NOTE]
 > Besides from togging the boot flag in non-volatile memory, Magic Phono does not touch or modify any internal firmware
-> or settings. Magic Phono runs entirely from SD-card, so once Magic Phono Loader is installed, things should be pretty safe.
+> or settings. Magic Phono runs entirely from SD-card.
 
 To prepare your player:
 - Download the pre-built <a href="https://github.com/Magic-Phono/cdj3k-magicphono-loader/releases/download/v1.0.0/CDJ3KvSDBOOT001.UPD">`CDJ3KvSDBOOT001.UPD`</a> update file.
