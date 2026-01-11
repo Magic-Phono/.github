@@ -15,6 +15,6 @@ Instructions: [DOOM on the CDJ](https://github.com/Magic-Phono/.github/blob/main
 ## Components
 
 - [`cdj3k-magicphono-loader`](https://github.com/Magic-Phono/cdj3k-magicphono-loader): Enables booting custom firmware from SD-card
-- [`cdj3k-magicphono-distro`](https://github.com/Magic-Phono/cdj3k-magicphono-distro): Custom firmware built from the ground up
+- [`cdj3k-magicphono-distro`](https://github.com/Magic-Phono/cdj3k-magicphono-distro): Custom firmware built from the ground up based on Linux
 - [`cdj3k-subucom-tools`](https://github.com/Magic-Phono/cdj3k-subucom-tools): Reverse engineered controls & LED interface
 
