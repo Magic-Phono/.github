@@ -70,6 +70,21 @@ To prepare your player:
 > Root access via SSH is enabled by default with no password. This will be disabled in future pre-built
 > images as MagicPhono Linux stabilizes.
 
+## DOOM Controls
+
+- `Rotary Encoder Press`: Menu OK
+- `Rotary Encoder`: Menu up/down
+- `Back`: Menu back
+- `Slip Forward`: Forward
+- `Slip Reverse`: Back
+- `Beat Jump Left`: Fire
+- `Beat Jump Right`: Open/Use
+- `Jogwheel` : Look left/right
+- `Jogwheel Press`: Fire
+- `Track Search Left`: Strafe left
+- `Track Search Right`: Straft right
+- `Loop Beat 4`: Strafe modifier
+  
 ## Help
 
 If DOOM doesnt start automatically, SSH into your player to debug what might be happening.
