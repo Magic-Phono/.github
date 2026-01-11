@@ -63,6 +63,8 @@ To prepare your player:
 
 - Download <a href="https://distro.ibiblio.org/slitaz/sources/packages/d/doom1.wad">doom1.wad</a> and put it in the root directory of the USB key.
 
+> NOTE: Even though DOOM is open source, the actual game assets in doom1.wad are still commercial, copyrighted intellectual property. This is why it needs to be downloaded and copied seperately and cannot be directly included in the Magic Phono firmware image.
+
 ## Run Magic Phono firmware with DOOM
 
 - On a CDJ-3000 with <a href="https://github.com/Magic-Phono/cdj3k-magicphono-loader">MagicPhono Loader</a> installed:
