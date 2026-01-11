@@ -1,6 +1,6 @@
 # Magic Phono
 
-Magic Phono enables open source software to run on AlphaTheta CDJs, directly from an SD-card.
+Magic Phono enables open source software to run on AlphaTheta CDJs.
 
 > [!CAUTION]
 > Magic Phono is under early development and cannot guarantee correct operation.
