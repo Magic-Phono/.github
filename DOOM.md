@@ -1,18 +1,18 @@
 # DOOM on the CDJ-3000
 
-> [!NOTE]
-> This is meant for developers -- will streamline this for end users soon.
-
 ## Installing
 
 ### Compatibility
 
 - Compatible with Renesas SoC based CDJ-3000s.
 
+> [!NOTE]
+> There are reports that a Rockchip variant of the CDJ-3000 exists. Trying to install Magic Phono on this variant has not been tested. If you have one of these variants, please reach out to us!
+
+
 ### Prerequisites
 
 - A compatible CDJ-3000
-  - Connected to your local network
   - Audio connected via Digital Out
 - An SD-card with of at least 1 GiB in size
 - A USB key formatted to FAT32
@@ -21,14 +21,14 @@
 
 Magic Phono Loader works by toggling a boot flag in non-volatile memory to allow booting firmware from an SD-card.
 
-If no bootable SD-card is present the CDJ-3000 will continue booting from internal firmware as usual.
-
-The chances of this bricking your CDJ-3000 is low, however there is a non-zero chance something could go wrong.
-
-> [!CAUTION]
-> This tool is experimental software with the potential to brick your CDJ. **USE AT YOUR OWN RISK**.
+If no bootable SD-card is present, the CDJ-3000 will continue booting from internal firmware as usual.
 
 You only need to do this once per player.
+
+> [!CAUTION]
+> The chances of this bricking your CDJ-3000 is low, however there is a non-zero chance something could go wrong.
+>
+> This tool is experimental software. **USE AT YOUR OWN RISK**.
 
 To prepare your player:
 - Download the pre-built <a href="https://github.com/Magic-Phono/cdj3k-magicphono-loader/releases/download/v1.0.0/CDJ3KvSDBOOT001.UPD">`CDJ3KvSDBOOT001.UPD`</a> update file.
