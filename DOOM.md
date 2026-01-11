@@ -77,6 +77,11 @@ To prepare your player:
 > Root access via SSH is enabled by default with no password. This will be disabled in future pre-built
 > images as MagicPhono Linux stabilizes.
 
+### Known Issues
+
+- Audio currently only works via Digital Out. Analog Out support is work in progress.
+- Controls can get stuck sometimes, needs some improvement.
+
 ## DOOM Controls
 
 - `Rotary Encoder Press`: Menu OK
