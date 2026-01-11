@@ -20,7 +20,7 @@
 
 ## Quick Install Guide
 
-<img src="https://github.com/Magic-Phono/.github/blob/main/magicphono-install%20instructions.png" width="600">
+<img src="https://github.com/Magic-Phono/.github/blob/main/magicphono-install-instructions.png" width="600">
 
 
 
