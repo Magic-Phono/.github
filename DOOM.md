@@ -13,7 +13,7 @@
 ### Prerequisites
 
 - A compatible CDJ-3000
-  - Audio connected via Digital Out
+  - Audio connected via Digital Out (Analog Out support is WIP)
 - An SD-card with of at least 1 GiB in size
 - A USB key formatted to FAT32
 
