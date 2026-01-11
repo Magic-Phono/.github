@@ -9,7 +9,7 @@ Magic Phono enables open source software to run on AlphaTheta CDJs.
 
 ## I want to play DOOM on my CDJ-3000
 
-Instructions: [DOOM on the CDJ](https://github.com/Magic-Phono/.github/blob/main/DOOM.md)
+Instructions: [DOOM on the CDJ-3000](https://github.com/Magic-Phono/.github/blob/main/DOOM.md)
 
 
 ## Code
