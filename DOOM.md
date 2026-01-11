@@ -53,6 +53,11 @@ To prepare your player:
 
 - Download the pre-built <a href="https://github.com/Magic-Phono/cdj3k-magicphono-distro/releases/download/v1.0.0/magicphono-cdj3k-1.0-dev.img">`magicphono-cdj3k-1.0-dev.img`</a> image.
 - Write it to a SD-card using a tool like <a href="https://www.raspberrypi.com/software/" target="_blank">Raspberry Pi Imager</a> (despite the name it can write any image file to an SD card).
+  - Tap `OS` on the left, scroll down and select `Use Custom`
+  - Select the downloaded `.img` file
+  - Tap Next, choose your SD-card and Write
+
+<img src="rpi-imager-use-custom.png" />
 
 ## Prepare: Copy the DOOM levels to USB key
 
