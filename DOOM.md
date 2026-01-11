@@ -17,6 +17,14 @@
 - An SD-card with of at least 1 GiB in size
 - A USB key formatted to FAT32
 
+
+## Quick Install Guide
+
+
+
+
+
+
 ## Prepare your player with Magic Phono Loader
 
 Magic Phono Loader works by toggling a boot flag in non-volatile memory to allow booting firmware from an SD-card.
