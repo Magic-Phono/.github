@@ -13,7 +13,8 @@ Instructions: [DOOM on the CDJ-3000](https://github.com/Magic-Phono/.github/blob
 
 
 
-https://github.com/user-attachments/assets/97285704-1d3d-4600-bcde-a168bbb5d0ba
+![doom-preview](https://github.com/user-attachments/assets/0e33ac31-b09b-4773-bbe5-eddd14813ca4)
+
 
 
 
